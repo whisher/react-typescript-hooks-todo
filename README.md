@@ -1,2 +1,2 @@
 # react-typescript-hooks-todo
-A simple todo using react typescript with hooks 
+A simple todo using react typescript with hooks and tailwind
